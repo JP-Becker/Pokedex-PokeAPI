@@ -37,7 +37,6 @@ npm start
 ### Funcionalidades
 ```bash
 . Listagem: Listagem dos 600 primeiros pokemons existentes, organizados por página (30 em cada);
-. Filtro: Filtrar pokemon pelo nome;
 . Detalhes: Cada card contém um botão para exibir especificidades como Base Stats (estatisticas) e Movimentos ao ser clicado;
 . Captura: Adicionar pokemons a sua Pokedex pessoal;
 . Excluir: Excluir pokemons da Pokedex e mandar de volta para a página principal;
